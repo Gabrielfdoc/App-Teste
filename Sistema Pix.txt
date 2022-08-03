@@ -1,2 +1,4 @@
-Cadastro de chaves (CPF, Celular e chaves aleatórias)
+Cadastro de chaves (CPF, Celular, e-mail e chaves aleatórias)
 Transferência entre chaves pix
+Relação dos contatos recentes de pix enviados e recebidos
+Histórico de transações pix
